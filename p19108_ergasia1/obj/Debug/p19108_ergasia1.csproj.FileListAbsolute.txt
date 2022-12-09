@@ -1,0 +1,12 @@
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\bin\Debug\p19108_ergasia1.exe.config
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\bin\Debug\p19108_ergasia1.exe
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\bin\Debug\p19108_ergasia1.pdb
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.Form1.resources
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.Form2.resources
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.Form3.resources
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.Form4.resources
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.Properties.Resources.resources
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.csproj.GenerateResource.cache
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.csproj.CoreCompileInputs.cache
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.exe
+D:\VS projects\p19108_ergasia1\p19108_ergasia1\obj\Debug\p19108_ergasia1.pdb
